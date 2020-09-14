@@ -98,4 +98,5 @@ Vous trouverez le template à intégrer, ainsi que le fichier pdf pour vous y ai
 Vous trouverez tous les liens ressources dont vous aurez besoin dans le pdf.
 
 https://developer.wordpress.org/
+
 https://codex.wordpress.org/
