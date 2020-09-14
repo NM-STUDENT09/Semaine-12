@@ -96,3 +96,6 @@ La liste de la colone Discography et les albums en ventes ne doivent pas être l
 
 Vous trouverez le template à intégrer, ainsi que le fichier pdf pour vous y aider, dans votre channel de groupe sur Team, dossier Wordpress.
 Vous trouverez tous les liens ressources dont vous aurez besoin dans le pdf.
+
+https://developer.wordpress.org/
+https://codex.wordpress.org/
